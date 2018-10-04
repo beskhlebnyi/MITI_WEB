@@ -49,3 +49,8 @@ ul{
 .italic{
   font-style: italic;
 }
+
+.posters{
+  width: 320px;
+  height: 240px;
+}
